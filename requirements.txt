@@ -1,0 +1,9 @@
+google-ai-generativelanguage==0.6.4
+streamlit==1.35.0
+langchain==0.2.3
+langchain-chroma==0.1.1
+langchain-community==0.2.4
+langchain-core==0.2.5
+Pillow==9.4.0
+python-dotenv==1.0.1
+
