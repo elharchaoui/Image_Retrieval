@@ -1,6 +1,3 @@
-Sure, here is a `README.md` file for your application:
-
-```markdown
 # PhotoFinder Pro: Your Personal Image Retrieval Assistant 📸
 
 ## Overview
